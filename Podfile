@@ -2,7 +2,7 @@
 source 'https://github.com/CocoaPods/Specs.git'
 platform :ios, ‘9.0’
 use_frameworks!
-target “UnTaxi” do
+target “Rocostcar” do
     pod 'Socket.IO-Client-Swift', '~> 8.1.2’
     pod 'GoogleMaps'
     pod 'Canvas'
