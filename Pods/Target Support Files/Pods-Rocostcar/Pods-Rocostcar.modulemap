@@ -1,6 +1,0 @@
-framework module Pods_Rocostcar {
-  umbrella header "Pods-Rocostcar-umbrella.h"
-
-  export *
-  module * { export * }
-}

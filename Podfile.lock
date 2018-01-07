@@ -20,23 +20,26 @@ PODS:
   - GoogleMaps/Base (2.1.1)
   - GoogleMaps/Maps (2.1.1):
     - GoogleMaps/Base
-  - Socket.IO-Client-Swift (8.1.2)
+  - Socket.IO-Client-Swift (11.1.3):
+    - StarscreamSocketIO (~> 8.0.5)
+  - StarscreamSocketIO (8.0.7)
   - SwiftyJSON (3.1.3)
 
 DEPENDENCIES:
   - AFNetworking
   - Canvas
   - GoogleMaps
-  - Socket.IO-Client-Swift (~> 8.1.2)
+  - Socket.IO-Client-Swift (~> 11.1.3)
   - SwiftyJSON
 
 SPEC CHECKSUMS:
   AFNetworking: 5e0e199f73d8626b11e79750991f5d173d1f8b67
   Canvas: eb861e3b555d032648146c8ffda1a5dea40059ca
   GoogleMaps: a5b5bbe47734e2443bde781a6aa64e69fdb6d785
-  Socket.IO-Client-Swift: 542d82e6708f9901b3f6c1d134fb60fa0d09d4d1
+  Socket.IO-Client-Swift: b8e59ddc16bc3609ca2f49a4b50253f095d535c8
+  StarscreamSocketIO: 00b54e4208481ca5cef089545353aaf126bae16d
   SwiftyJSON: 38a8ea2006779c0fc4c310cb2ee8195327740faf
 
-PODFILE CHECKSUM: f48bc39a186fbefb236f00108f9fbb3e6f9dc177
+PODFILE CHECKSUM: 164e74e4b5e17707cac2dc89bda64db6a6376f72
 
-COCOAPODS: 1.1.1
+COCOAPODS: 1.3.1
