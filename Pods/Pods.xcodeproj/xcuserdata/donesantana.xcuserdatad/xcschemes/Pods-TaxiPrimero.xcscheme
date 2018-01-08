@@ -14,9 +14,9 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "EB68328912A8F70A47FF51C8712CF36C"
-               BuildableName = "SocketIO.framework"
-               BlueprintName = "Socket.IO-Client-Swift"
+               BlueprintIdentifier = "8504C56F1E03D652F20EE2BFBDAB9B19"
+               BuildableName = "Pods_TaxiPrimero.framework"
+               BlueprintName = "Pods-TaxiPrimero"
                ReferencedContainer = "container:Pods.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -47,9 +47,9 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "EB68328912A8F70A47FF51C8712CF36C"
-            BuildableName = "SocketIO.framework"
-            BlueprintName = "Socket.IO-Client-Swift"
+            BlueprintIdentifier = "8504C56F1E03D652F20EE2BFBDAB9B19"
+            BuildableName = "Pods_TaxiPrimero.framework"
+            BlueprintName = "Pods-TaxiPrimero"
             ReferencedContainer = "container:Pods.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
